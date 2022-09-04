@@ -2,5 +2,5 @@
 
 ## Services
 
-* [RT](https://rt.rext.dev)
-* [Knowledge](https://knowledge.rext.dev)
+* [RT](https://rt.rext.dev) - Discord bot
+* [Knowledge](https://knowledge.rext.dev) - Rext's blog
