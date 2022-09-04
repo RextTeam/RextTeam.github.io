@@ -1,4 +1,4 @@
-# RextTeam.github.io
+# Rext
 
 ## Services
 
