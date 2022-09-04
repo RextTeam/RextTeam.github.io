@@ -1,5 +1,7 @@
 # Rext
 
+Now developing...
+
 ## Services
 
 * [RT](https://rt.rext.dev) - Discord bot
